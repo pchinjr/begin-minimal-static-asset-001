@@ -2,4 +2,4 @@
 begin-app
 
 @static
-fingerprint
+fingerprint true
